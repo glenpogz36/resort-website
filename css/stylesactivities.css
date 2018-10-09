@@ -23,6 +23,7 @@ p {
   font-size: 35px;
   font-family: fantasy;
   text-shadow: 5px 2px skyblue;
+  color: red;
 }
 body {
   background-color: #C1DADC;
