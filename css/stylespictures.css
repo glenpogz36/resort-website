@@ -1,0 +1,29 @@
+h3 {
+  font-size: 70px;
+  text-align: center;
+  font-family: fantasy;
+  text-shadow: 5px 2px skyblue;
+}
+ {
+  text-align: center;
+}
+h1 {
+  font-size: 50px;
+  text-align: center;
+  font-family: fantasy;
+  text-shadow: 5px 2px skyblue;
+}
+h2 {
+  font-size: 35px;
+  font-family: fantasy;
+  text-align: center;
+}
+p {
+  text-align: center;
+  font-size: 50px;
+  font-family: fantasy;
+  text-shadow: 5px 2px skyblue;
+}
+body {
+  background-color: #C1DADC;
+}
